@@ -1,0 +1,680 @@
+﻿  Axe.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\axe.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\axe.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\axe.cpp(35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\axe.cpp(44): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\axe.cpp(57): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\axe.cpp(87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\axe.cpp(115): warning C4018: '<': signed/unsigned mismatch
+  AxeW.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\axew.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\axew.cpp(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\axew.cpp(50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\axew.cpp(52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\axew.cpp(70): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\axew.cpp(83): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\axew.cpp(129): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\axew.cpp(151): warning C4018: '<': signed/unsigned mismatch
+  Bat.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\bat.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\bat.cpp(35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\bat.cpp(36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\bat.cpp(54): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\bat.cpp(120): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\bat.cpp(128): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  BigHeart.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\bigheart.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\bigheart.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\bigheart.cpp(35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\bigheart.cpp(44): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\bigheart.cpp(57): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\bigheart.cpp(87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\bigheart.cpp(109): warning C4018: '<': signed/unsigned mismatch
+  Board.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\board.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  Boomerang.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\boomerang.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\boomerang.cpp(33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\boomerang.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\boomerang.cpp(43): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\boomerang.cpp(56): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\boomerang.cpp(85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\boomerang.cpp(113): warning C4018: '<': signed/unsigned mismatch
+  BoomerangW.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\boomerangw.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\boomerangw.cpp(50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\boomerangw.cpp(52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\boomerangw.cpp(58): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\boomerangw.cpp(65): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\boomerangw.cpp(74): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\boomerangw.cpp(87): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\boomerangw.cpp(153): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\boomerangw.cpp(175): warning C4018: '<': signed/unsigned mismatch
+  Brick.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\brick.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\brick.cpp(32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\brick.cpp(33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\brick.cpp(48): warning C4018: '<': signed/unsigned mismatch
+  BrickGround.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\brickground.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\brickground.cpp(39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\brickground.cpp(40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\brickground.cpp(56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Candles.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\candles.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\candles.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\candles.cpp(35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\candles.cpp(38): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\candles.cpp(45): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\candles.cpp(72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\candles.cpp(82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\candles.cpp(93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\candles.cpp(97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\candles.cpp(100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\candles.cpp(103): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\candles.cpp(106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\candles.cpp(109): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\candles.cpp(112): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\candles.cpp(115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\candles.cpp(118): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\candles.cpp(121): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\candles.cpp(124): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Cat.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\cat.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\cat.cpp(40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\cat.cpp(41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\cat.cpp(62): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\cat.cpp(170): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\cat.cpp(177): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Chicken.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\chicken.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\chicken.cpp(33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\chicken.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\chicken.cpp(43): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\chicken.cpp(56): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\chicken.cpp(86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\chicken.cpp(108): warning C4018: '<': signed/unsigned mismatch
+  Clock.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\clock.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\clock.cpp(33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\clock.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\clock.cpp(44): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\clock.cpp(73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\clock.cpp(101): warning C4018: '<': signed/unsigned mismatch
+  Cross.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\cross.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\cross.cpp(33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\cross.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\cross.cpp(44): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\cross.cpp(73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\cross.cpp(95): warning C4018: '<': signed/unsigned mismatch
+  DeadWater.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\deadwater.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\deadwater.cpp(32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\deadwater.cpp(33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\deadwater.cpp(39): warning C4018: '<': signed/unsigned mismatch
+  Door.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\door.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\door.cpp(35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\door.cpp(36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\door.cpp(44): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\door.cpp(57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Effect.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\effect.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\effect.cpp(36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\effect.cpp(37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\effect.cpp(44): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\effect.cpp(79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\effect.cpp(80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  FireBall.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\fireball.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\fireball.cpp(35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\fireball.cpp(36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\fireball.cpp(52): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\fireball.cpp(95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Fish.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\fish.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\fish.cpp(36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\fish.cpp(37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\fish.cpp(68): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\fish.cpp(126): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\fish.cpp(128): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\fish.cpp(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\fish.cpp(155): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\game.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.cpp(6): warning C4081: expected '('; found 'newline'
+  Generating Code...
+  Compiling...
+  GameObject.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\gameobject.cpp(421): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\gameobject.cpp(430): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Gate.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\gate.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\gate.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\gate.cpp(35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\gate.cpp(45): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\gate.cpp(59): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\gate.cpp(61): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\gate.cpp(69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Genie.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\genie.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\genie.cpp(33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\genie.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\genie.cpp(44): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\genie.cpp(73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\genie.cpp(95): warning C4018: '<': signed/unsigned mismatch
+  Ghoul.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\ghoul.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\ghoul.cpp(39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\ghoul.cpp(40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\ghoul.cpp(59): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\ghoul.cpp(134): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\ghoul.cpp(141): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Heart.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\heart.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\heart.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\heart.cpp(35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\heart.cpp(44): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\heart.cpp(57): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\heart.cpp(86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\heart.cpp(108): warning C4018: '<': signed/unsigned mismatch
+  HolyWater.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\holywater.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\holywater.cpp(33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\holywater.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\holywater.cpp(43): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\holywater.cpp(56): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\holywater.cpp(85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\holywater.cpp(113): warning C4018: '<': signed/unsigned mismatch
+  HolyWaterW.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\holywaterw.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\holywaterw.cpp(53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\holywaterw.cpp(55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\holywaterw.cpp(57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\holywaterw.cpp(78): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\holywaterw.cpp(91): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\holywaterw.cpp(159): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\holywaterw.cpp(181): warning C4018: '<': signed/unsigned mismatch
+  Intro.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\intro.cpp(52): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\intro.cpp(54): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\intro.cpp(55): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\intro.cpp(57): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\intro.cpp(58): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Knife.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\knife.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\knife.cpp(33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\knife.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\knife.cpp(43): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\knife.cpp(56): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\knife.cpp(85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\knife.cpp(113): warning C4018: '<': signed/unsigned mismatch
+  KnifeW.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\knifew.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\knifew.cpp(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\knifew.cpp(50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\knifew.cpp(55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\knifew.cpp(61): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\knifew.cpp(69): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\knifew.cpp(82): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\knifew.cpp(119): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\knifew.cpp(141): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\main.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\startscreen.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\học tập\game\đồ án - castlevania\doangame\doangame\main.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MainGame.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\maingame.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\startscreen.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\học tập\game\đồ án - castlevania\doangame\doangame\maingame.cpp(105): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\maingame.cpp(126): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\maingame.cpp(153): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\maingame.cpp(167): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\maingame.cpp(181): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\maingame.cpp(193): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\maingame.cpp(207): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\maingame.cpp(227): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\maingame.cpp(239): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\maingame.cpp(260): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\maingame.cpp(484): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Misc.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\misc.cpp(21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\misc.cpp(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\misc.cpp(23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\misc.cpp(24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Player.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(99): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(100): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(109): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(156): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(157): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(260): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(262): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(389): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(500): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(646): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(647): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(648): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(649): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(778): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(800): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(804): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(859): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(863): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(867): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(871): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(909): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(946): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(949): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(953): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(956): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(999): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(1000): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\player.cpp(1096): warning C4018: '<': signed/unsigned mismatch
+  Pots.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\pots.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\pots.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\pots.cpp(35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\pots.cpp(41): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\pots.cpp(68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\pots.cpp(78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\pots.cpp(81): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\pots.cpp(89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\pots.cpp(93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\pots.cpp(96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\pots.cpp(99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\pots.cpp(102): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\pots.cpp(105): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\pots.cpp(108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\pots.cpp(111): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\pots.cpp(114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\pots.cpp(117): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Power.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\power.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\power.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\power.cpp(35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\power.cpp(42): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\power.cpp(78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Sprite.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\sprite.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\sprite.cpp(17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\sprite.cpp(59): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\sprite.cpp(68): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\sprite.cpp(69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\sprite.cpp(124): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\sprite.cpp(125): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Stair.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\stair.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\stair.cpp(32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\stair.cpp(33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\stair.cpp(42): warning C4018: '<': signed/unsigned mismatch
+  Texture.cpp
+  TileMap.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\tilemap.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\tilemap.cpp(130): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\tilemap.cpp(133): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\tilemap.cpp(135): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  VaChamTime.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\vachamtime.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\vachamtime.cpp(29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\vachamtime.cpp(30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\vachamtime.cpp(45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  VamBat.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\vambat.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\vambat.cpp(39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\vambat.cpp(40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\vambat.cpp(51): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\vambat.cpp(76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\vambat.cpp(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\vambat.cpp(153): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\vambat.cpp(175): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  WaterEffect.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\watereffect.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\watereffect.cpp(33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\watereffect.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\watereffect.cpp(46): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\watereffect.cpp(73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Whip.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\whip.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\whip.cpp(40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\whip.cpp(43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\whip.cpp(45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\whip.cpp(143): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\whip.cpp(165): warning C4018: '<': signed/unsigned mismatch
+  WhipUpgrade.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\whipupgrade.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\whipupgrade.cpp(33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\whipupgrade.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\whipupgrade.cpp(43): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\whipupgrade.cpp(57): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\whipupgrade.cpp(87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\học tập\game\đồ án - castlevania\doangame\doangame\whipupgrade.cpp(109): warning C4018: '<': signed/unsigned mismatch
+  World.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\world.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\startscreen.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\học tập\game\đồ án - castlevania\doangame\doangame\world.cpp(139): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\world.cpp(169): warning C4018: '<': signed/unsigned mismatch
+e:\học tập\game\đồ án - castlevania\doangame\doangame\world.cpp(190): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  startscreen.cpp
+e:\học tập\game\đồ án - castlevania\doangame\doangame\startscreen.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(33): warning C4005: 'ENEMY_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(28): note: see previous definition of 'ENEMY_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(39): warning C4005: 'EFFECT_TYPE': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\thamso.h(26): note: see previous definition of 'EFFECT_TYPE'
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(3): warning C4081: expected '('; found 'newline'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\học tập\game\đồ án - castlevania\doangame\doangame\game.h(27): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  e:\học tập\game\đồ án - castlevania\doangame\doangame\startscreen.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  Generating Code...
+  DoAnGame.vcxproj -> E:\Học Tập\Game\Đồ án - CastleVania\DoAnGame\Debug\DoAnGame.exe

@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Engine">
+      <UniqueIdentifier>{2553175a-f66b-46e7-b670-e31160684893}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Abstract">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Ground">
+      <UniqueIdentifier>{75eaf641-d43a-42d8-afb1-39cffea45683}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cinematic">
+      <UniqueIdentifier>{6e366190-c0fb-44a9-b626-798dc216644d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Abstract\Weapon">
+      <UniqueIdentifier>{3a62aba0-6271-4264-a85b-ce865f884ce3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Abstract\Destructibles">
+      <UniqueIdentifier>{961da30e-4e2b-4a2a-bd9c-303b978d0d70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Abstract\Board">
+      <UniqueIdentifier>{982a191c-be95-41e7-a1c6-7d21ada694fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Abstract\Effects">
+      <UniqueIdentifier>{a77c167d-4c3d-406c-ba69-ebca40f417ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Abstract\Items">
+      <UniqueIdentifier>{da7cc171-b330-4344-b119-8e97175f7445}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Abstract\Items\Headers">
+      <UniqueIdentifier>{c9c0a16b-5fc0-4697-8b83-da1618b20194}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Abstract\Items\Sources">
+      <UniqueIdentifier>{fbff1fcd-92f0-4526-af46-3912c56d2135}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Abstract\Zone">
+      <UniqueIdentifier>{f5d61e13-3d85-4ee7-98e9-97555eeeafee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Abstract\Enemies">
+      <UniqueIdentifier>{1a68b92f-9088-464d-ba7d-73e70469f3fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\AmusementPark">
+      <UniqueIdentifier>{7e7065f9-54ed-4c72-ac83-758984e64932}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Abstract\NierAutomata">
+      <UniqueIdentifier>{9d4ed5d8-3651-4a3d-9369-cc96712caf2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Abstract\NierAutomata\Headers">
+      <UniqueIdentifier>{efa5d4f2-4a0b-47ae-b23f-e6ff94daf6e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Abstract\NierAutomata\Sources">
+      <UniqueIdentifier>{e975089f-4cb3-459d-b871-d4c68a4bd8ed}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="World.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Whip.cpp">
+      <Filter>Abstract\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Pots.cpp">
+      <Filter>Abstract\Destructibles</Filter>
+    </ClCompile>
+    <ClCompile Include="Board.cpp">
+      <Filter>Abstract\Board</Filter>
+    </ClCompile>
+    <ClCompile Include="Effect.cpp">
+      <Filter>Abstract\Effects</Filter>
+    </ClCompile>
+    <ClCompile Include="Axe.cpp">
+      <Filter>Abstract\Items\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="BigHeart.cpp">
+      <Filter>Abstract\Items\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Boomerang.cpp">
+      <Filter>Abstract\Items\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Chicken.cpp">
+      <Filter>Abstract\Items\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Clock.cpp">
+      <Filter>Abstract\Items\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Heart.cpp">
+      <Filter>Abstract\Items\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Knife.cpp">
+      <Filter>Abstract\Items\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="WhipUpgrade.cpp">
+      <Filter>Abstract\Items\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Cross.cpp">
+      <Filter>Abstract\Items\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="HolyWater.cpp">
+      <Filter>Abstract\Items\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="AxeW.cpp">
+      <Filter>Abstract\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Abstract\NierAutomata\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Misc.cpp">
+      <Filter>Abstract\NierAutomata\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Abstract\NierAutomata\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="KnifeW.cpp">
+      <Filter>Abstract\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="BoomerangW.cpp">
+      <Filter>Abstract\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="HolyWaterW.cpp">
+      <Filter>Abstract\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Gate.cpp">
+      <Filter>Abstract\Zone</Filter>
+    </ClCompile>
+    <ClCompile Include="Candles.cpp">
+      <Filter>Abstract\Destructibles</Filter>
+    </ClCompile>
+    <ClCompile Include="Ghoul.cpp">
+      <Filter>Abstract\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Cat.cpp">
+      <Filter>Abstract\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Brick.cpp">
+      <Filter>Ground</Filter>
+    </ClCompile>
+    <ClCompile Include="Stair.cpp">
+      <Filter>Ground</Filter>
+    </ClCompile>
+    <ClCompile Include="BrickGround.cpp">
+      <Filter>Ground</Filter>
+    </ClCompile>
+    <ClCompile Include="Door.cpp">
+      <Filter>Abstract\Zone</Filter>
+    </ClCompile>
+    <ClCompile Include="TileMap.cpp">
+      <Filter>Engine\AmusementPark</Filter>
+    </ClCompile>
+    <ClCompile Include="DeadWater.cpp">
+      <Filter>Ground</Filter>
+    </ClCompile>
+    <ClCompile Include="Bat.cpp">
+      <Filter>Abstract\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Fish.cpp">
+      <Filter>Abstract\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="WaterEffect.cpp">
+      <Filter>Abstract\Effects</Filter>
+    </ClCompile>
+    <ClCompile Include="FireBall.cpp">
+      <Filter>Abstract\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="VamBat.cpp">
+      <Filter>Abstract\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Genie.cpp">
+      <Filter>Abstract\Items\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Power.cpp">
+      <Filter>Abstract\Items\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="startscreen.cpp">
+      <Filter>Cinematic</Filter>
+    </ClCompile>
+    <ClCompile Include="Intro.cpp">
+      <Filter>Cinematic</Filter>
+    </ClCompile>
+    <ClCompile Include="VaChamTime.cpp">
+      <Filter>Ground</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainGame.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="ThamSo.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="World.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Whip.h">
+      <Filter>Abstract\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Pots.h">
+      <Filter>Abstract\Destructibles</Filter>
+    </ClInclude>
+    <ClInclude Include="Board.h">
+      <Filter>Abstract\Board</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect.h">
+      <Filter>Abstract\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="Axe.h">
+      <Filter>Abstract\Items\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BigHeart.h">
+      <Filter>Abstract\Items\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Boomerang.h">
+      <Filter>Abstract\Items\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Chicken.h">
+      <Filter>Abstract\Items\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Clock.h">
+      <Filter>Abstract\Items\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Heart.h">
+      <Filter>Abstract\Items\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Knife.h">
+      <Filter>Abstract\Items\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="WhipUpgrade.h">
+      <Filter>Abstract\Items\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Cross.h">
+      <Filter>Abstract\Items\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="HolyWater.h">
+      <Filter>Abstract\Items\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="AxeW.h">
+      <Filter>Abstract\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Abstract\NierAutomata\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Misc.h">
+      <Filter>Abstract\NierAutomata\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Abstract\NierAutomata\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Abstract\NierAutomata\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="KnifeW.h">
+      <Filter>Abstract\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="BoomerangW.h">
+      <Filter>Abstract\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="HolyWaterW.h">
+      <Filter>Abstract\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Gate.h">
+      <Filter>Abstract\Zone</Filter>
+    </ClInclude>
+    <ClInclude Include="Candles.h">
+      <Filter>Abstract\Destructibles</Filter>
+    </ClInclude>
+    <ClInclude Include="Ghoul.h">
+      <Filter>Abstract\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Cat.h">
+      <Filter>Abstract\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Brick.h">
+      <Filter>Ground</Filter>
+    </ClInclude>
+    <ClInclude Include="Stair.h">
+      <Filter>Ground</Filter>
+    </ClInclude>
+    <ClInclude Include="BrickGround.h">
+      <Filter>Ground</Filter>
+    </ClInclude>
+    <ClInclude Include="Door.h">
+      <Filter>Abstract\Zone</Filter>
+    </ClInclude>
+    <ClInclude Include="TileMap.h">
+      <Filter>Engine\AmusementPark</Filter>
+    </ClInclude>
+    <ClInclude Include="DeadWater.h">
+      <Filter>Ground</Filter>
+    </ClInclude>
+    <ClInclude Include="Bat.h">
+      <Filter>Abstract\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Fish.h">
+      <Filter>Abstract\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="WaterEffect.h">
+      <Filter>Abstract\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="FireBall.h">
+      <Filter>Abstract\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="VamBat.h">
+      <Filter>Abstract\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Genie.h">
+      <Filter>Abstract\Items\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Power.h">
+      <Filter>Abstract\Items\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="startscreen.h">
+      <Filter>Cinematic</Filter>
+    </ClInclude>
+    <ClInclude Include="Intro.h">
+      <Filter>Cinematic</Filter>
+    </ClInclude>
+    <ClInclude Include="VaChamTime.h">
+      <Filter>Ground</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DoAnGame.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
